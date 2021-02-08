@@ -4,4 +4,4 @@ Matías Piña
 matias92pina@gmail.com
 PYTHON
 
-inluye FINAL PARADIGMAS DE LA PROGRAMACIÓN
+incluye FINAL PARADIGMAS DE LA PROGRAMACIÓN
